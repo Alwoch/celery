@@ -1,4 +1,4 @@
-### CELERY AD RABBIT-MQ
+### CELERY AND RABBIT-MQ
 
 1. start the rabbit mq container if its not already running
     ```
